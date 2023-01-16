@@ -1,14 +1,11 @@
 {
-  "name": "server",
-  "version": "1.0.0",
-  "description": "",
-  "type":"module",
+  "name": "moyini-server",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
   "scripts": {
     "server": "nodemon server"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
